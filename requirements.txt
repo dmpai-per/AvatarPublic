@@ -1,7 +1,0 @@
-Flask
-pip
-gunicorn
-waitress
-azure-cognitiveservices-speech
-pytz
-requests
